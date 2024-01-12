@@ -16,12 +16,11 @@ Hackingly_Assignment/
 ├── src/
 │   ├── components/
 |   |   ├── images/
-│   │   |   ├── EventCard.jsx
-│   │   |   ├── ProjectCard.jsx
-│   │   |   └── TechStack.jsx
+│   │   |── EventCard.jsx
+│   │   |── ProjectCard.jsx
+│   │   |── TechStack.jsx
 │   │   ├── App.js
 │   │   └── App.css
-│   ├── package.json
 │   └── ...
 ├── package.json
 ├── README.md
