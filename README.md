@@ -1,7 +1,6 @@
 
 # Profile Page
 
-Track the fascinating journey from any Wikipedia page to the ultimate destination - the "Philosophy" page.
 
 ![Profile Page](https://firebasestorage.googleapis.com/v0/b/studymate-c44e8.appspot.com/o/WhatsApp%20Image%202024-01-12%20at%2011.19.58%20PM.jpeg?alt=media&token=cc4cdab0-d822-4ad5-9187-9d2b80fc136b)
 
