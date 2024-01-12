@@ -19,8 +19,8 @@ Hackingly_Assignment/
 │   │   |── EventCard.jsx
 │   │   |── ProjectCard.jsx
 │   │   |── TechStack.jsx
-│   │   ├── App.js
-│   │   └── App.css
+│   │── App.js
+│   │── App.css
 │   └── ...
 ├── package.json
 ├── README.md
