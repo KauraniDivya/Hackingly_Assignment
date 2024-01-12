@@ -65,7 +65,7 @@ The profile page is deployed, making it easily accessible for review and assessm
 2. **Navigate to the project directory:**
 
    ```bash
-   cd hackingly
+   cd Hackingly_Assignment
    ```
 
 3. **Install dependencies:**
@@ -81,7 +81,7 @@ The profile page is deployed, making it easily accessible for review and assessm
 1. **Start the React app:**
 
    ```bash
-   cd hackingly 
+   cd Hackingly_Assignment
    npm start
    ```
 
