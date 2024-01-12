@@ -11,7 +11,7 @@ This project is a responsive React-based profile page designed for the frontend 
 ## Project Structure
 
 ```plaintext
-hackingly/
+Hackingly_Assignment/
 ├── public/
 ├── src/
 │   ├── components/
