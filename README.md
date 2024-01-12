@@ -3,7 +3,7 @@
 
 Track the fascinating journey from any Wikipedia page to the ultimate destination - the "Philosophy" page.
 
-![Profile Page](./src/components/images/readme.jpeg)
+![Profile Page](https://firebasestorage.googleapis.com/v0/b/studymate-c44e8.appspot.com/o/WhatsApp%20Image%202024-01-12%20at%2011.19.58%20PM.jpeg?alt=media&token=cc4cdab0-d822-4ad5-9187-9d2b80fc136b)
 
 ## Overview
 
@@ -54,13 +54,13 @@ The project has been optimized for speed, ensuring quick loading times and a smo
 
 The profile page is deployed, making it easily accessible for review and assessment.
 
-![Responsive Design](./src/components/images/responsive.jpeg) ![Clean UI](./src/components/images/cleanui.jpeg)
+![Responsive Design](https://firebasestorage.googleapis.com/v0/b/studymate-c44e8.appspot.com/o/WhatsApp%20Image%202024-01-12%20at%2011.22.00%20PM.jpeg?alt=media&token=93c15678-ad47-4183-8686-c42580614197) ![Clean UI](./src/components/images/cleanui.jpeg)
 ## Installation
 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/KauraniDivya/
+   git clone https://github.com/KauraniDivya/Hackingly_Assignment
    ```
 
 2. **Navigate to the project directory:**
@@ -86,13 +86,13 @@ The profile page is deployed, making it easily accessible for review and assessm
    npm start
    ```
 
-The application will be accessible at [http://localhost:3000](http://localhost:3000).
+The application will be accessible at [https://hackingly-assignment.vercel.app/](https://hackingly-assignment.vercel.app/).
 
 
 ## Contact
 
 Your Name - Divya Kaurani (https://www.linkedin.com/in/divyakaurani/)
 
-Project Link: [[https://github.com/KauraniDivya/Hackingly_Assignment](https://github.com/KauraniDivya/Hackingly_Assignment)]
+Project Link: [https://github.com/KauraniDivya/Hackingly_Assignment](https://github.com/KauraniDivya/Hackingly_Assignment)
 
 
